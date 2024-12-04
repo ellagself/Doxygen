@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.h
+ * @author Ella Self
+ * @date 2024-12-03
+ * @brief supervisor header
+ * 
+ * supervisor class defintion 
+ */
+
 #ifndef SUPERVISOR_H
 #define SUPERVISOR_H
 

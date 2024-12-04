@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Ella Self
+ * @date 2024-12-03
+ * @brief main file for Employees project
+ * 
+ * calls functions and handles testing
+ */
+
 
 #include <iostream>
 #include "Employee.h"

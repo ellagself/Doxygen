@@ -1,3 +1,12 @@
+/**
+ * @file Employee.h
+ * @author Ella Self
+ * @date 2024-12-03
+ * @brief employee header file
+ * 
+ * employee class definition 
+ */
+
 #ifndef EMPLOYEE_H
 #define EMPLOYEE_H
 
